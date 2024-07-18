@@ -1,3 +1,4 @@
 title: "Hyunzi's 'Digital Garden"
 description: "Economics, Finance, Math and Statistics"
-theme: jekyll-theme-cayman
+theme: minima
+markdown: kramdown

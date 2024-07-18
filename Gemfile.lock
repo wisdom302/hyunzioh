@@ -259,12 +259,15 @@ GEM
       concurrent-ruby (~> 1.0)
     unicode-display_width (1.8.0)
     uri (0.13.0)
+    webrick (1.8.1)
 
 PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
   github-pages
+  jekyll (~> 3.9.5)
+  webrick (~> 1.7)
 
 BUNDLED WITH
    2.5.15
